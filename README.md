@@ -1,3 +1,10 @@
+Aryan Ghani - 01-135252-017 - Aryan-Ghani
+Shumyal Amir - 01-135252-076 - ShumyalAmir2006
+Hijab Fatima - 01-135252-111 - Hijab2006
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/AdnanAdj/Collaborative-Web-Project?style=flat-square" alt="Forks Badge"/>
@@ -14,9 +21,9 @@ To practice real teamwork on GitHub by creating individual HTML profile pages in
 
 ## 🧩 Group Structure
 Each group will consist of 3 members:
-groupleader/
-teammate1/
-teammate2/
+groupleader/Aryan Ghani - 01-135252-017
+teammate1/Shumyal Amir - 01-135252-076
+teammate2/Hijab Fatima - 01-135252-111
 Each member works only inside their assigned folder and creates a personal webpage named index.html.
 
 ---
