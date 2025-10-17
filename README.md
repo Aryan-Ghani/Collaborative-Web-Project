@@ -1,6 +1,6 @@
-Aryan Ghani - 01-135252-017
-Shumyal Amir - 01-135252-076
-Hijab Fatima - 01-135252-111
+Aryan Ghani - 01-135252-017 - Aryan-Ghani
+Shumyal Amir - 01-135252-076 - ShumyalAmir2006
+Hijab Fatima - 01-135252-111 - Hijab2006
 
 
 
